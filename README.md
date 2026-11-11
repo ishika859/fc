@@ -68,6 +68,7 @@ The board can be inspected in KiCad's 3D Viewer to check component placement, co
 ## Bill of Materials
 
 The component list with purchase links and estimated prices is available in [`bom.csv`](bom.csv).
+<img width="805" height="516" alt="image" src="https://github.com/user-attachments/assets/48739911-8749-48a6-ba53-b7846ad71ba9" />
 
 The current estimated component subtotal is approximately **$31.27 USD** before shipping and taxes. Prices are indicative and can change with supplier stock and order quantity.
 
